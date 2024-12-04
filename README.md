@@ -43,13 +43,19 @@ Type 'exit' anytime to leave. 💃
 🎵 Your song choice (or type 'exit'): Love Story
 
 🎶 Found your song: Love Story
+
 📋 Do you want a single song recommendation or a playlist? (Type 'single' or 'playlist'): playlist
+
 🎤 Want to filter by album? Type the album name or press Enter to skip: Fearless
+
 🎭 Sentiment preference (positive/negative/neutral)? Press Enter to skip: positive
+
 🌟 Key themes or keywords to match? Separate by commas or press Enter to skip: love, fairytale
 
 🎶 Here are your top recommendations for 'Love Story':
+
 1. You Belong With Me (Similarity: 0.89)
+   
 2. Enchanted (Similarity: 0.85)
 ...
 
