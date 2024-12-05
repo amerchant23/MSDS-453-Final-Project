@@ -1,5 +1,7 @@
-### Analysis of Taylor Swift's Album
-
+<p align="center">
+   ### Analysis of Taylor Swift's Album
+   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/TaylorSwift.jpg" width="300" />
+</p>
 **Overview**  
 The album by Taylor Swift comprises 15 songs, with a total word count of 1,953 words and 490 unique words. The album showcases a wide range of lyrical content, with a noticeable variation in song lengths and lexical richness.
 
@@ -25,6 +27,5 @@ The album by Taylor Swift comprises 15 songs, with a total word count of 1,953 w
 Taylor Swift's album displays a diverse range of lyrical styles, from more straightforward and concise songs to those that use a broader vocabulary. The average song length is relatively short, with a typical song being around 130 words long. This suggests that the album is not overly verbose but focuses on concise, impactful lyrics. The variations in lexical richness provide a nuanced understanding of Swift’s songwriting, as some songs focus on straightforward storytelling while others incorporate more intricate and varied language. The balance of these different elements helps create an album that offers both simplicity and depth, appealing to a wide range of listeners.
 
 <p align="center">
-  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/TaylorSwift.jpg" width="300" />
-  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album1.png" width="300" />
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album1.png"/>
 </p>
