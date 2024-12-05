@@ -27,6 +27,7 @@ The album "Fearless" consists of 13 songs, with a total word count of 1,955 word
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album2.png" />
 </p>
+
 ---
 
 ### Co-occurrence Analysis of Entities in the Album Fearless
