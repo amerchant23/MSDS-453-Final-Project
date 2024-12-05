@@ -1,9 +1,8 @@
-### Analysis of Taylor Swift's Album: Midnights
-
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/Midnights.jpg" width="300" />
 </p>
 
+### Analysis of Taylor Swift's Album: Midnights
 **Overview**  
 "Midnights" brings a new direction for Taylor Swift with its moody, introspective themes set against an electronic-pop backdrop. The album consists of **13 songs**, with a **total word count** of **2,024 words** and **675 unique words**. Swift continues her exploration of personal introspection, relationships, and self-discovery with a more contemporary sound.
 
@@ -29,7 +28,29 @@
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album10.png" />
 </p>
 
-**Conclusion**  
+---
+
+### Co-occurrence Analysis of Entities in the Album Midnights
+
+<p align="center">
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Midnights_entity_graph.png" />
+</p>
+
+#### Key Findings:
+- **Temporal References**: The co-occurrence of terms like **"midnight"** (TIME) and **"one day"** (DATE) emphasizes the album’s focus on the passage of time and moments of reflection.
+  
+- **Geographical and Abstract Locations**: The pairing of **"monster hill"** (FAC) and **"one day"** (DATE) reflects the album’s tendency to blend real and abstract imagery in its themes.
+
+- **Numerical Terms**: The frequent pairing of **"one"** (CARDINAL) across different entity types, such as with **"second"** and **"meteor"**, highlights an emphasis on singular moments or experiences.
+
+#### Observations on Entity Co-occurrence:
+- **Temporal Themes**: The appearance of **"midnight"** and related phrases underscores the album's exploration of introspective moments and personal reflection, especially related to specific times of day.
+  
+- **Imagery and Emotion**: Abstract terms like **"monster hill"** and **"one day"** point to the surreal and emotionally charged imagery that Taylor Swift often uses to convey deeper personal narratives.
+
+---
+
+### Conclusion  
 "Midnights" is an album with **2,024 total words** and an **average lexical richness** of **0.5147**, demonstrating a straightforward yet occasionally intricate lyricism. The songs explore deeper emotional narratives while maintaining a cohesive, accessible tone. The album continues Taylor Swift’s exploration of self, with songs that vary in complexity and style.
 
-
+In terms of co-occurrence analysis, the album emphasizes **temporal** and **abstract** references that contribute to the reflective, mood-driven themes throughout, marking a shift to a more electronic, introspective sound for Swift.
