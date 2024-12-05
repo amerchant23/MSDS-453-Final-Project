@@ -6,33 +6,15 @@ This comparison provides a detailed look at various metrics such as total word c
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/All_Albums.png" />
 </p>
 
-### Key Insights
+#### Key Findings:
+- **Total Word Count**: "The Tortured Poets Department" has the highest total word count (5,288 words), significantly more than other albums, while "Midnights" has the lowest total word count (2,024 words).
+- **Unique Word Count**: "The Tortured Poets Department" also leads in unique word count (1,642 unique words), suggesting more diversity in vocabulary, while "Midnights" again has the fewest (675 unique words).
+- **Average Song Length**: "Red" (Taylor's Version) and "Red" share the highest average song length (191.16 words per song), while "Midnights" has the shortest average song length (155.69 words per song).
+- **Lexical Richness**: "The Tortured Poets Department" stands out with the highest average lexical richness (0.6313), indicating a rich vocabulary throughout its tracks. "Midnights" has the lowest average lexical richness (0.5147), suggesting less complex language.
+- **Song Count**: "The Tortured Poets Department" has the highest song count (31 songs), reflecting its longer tracklist, while "Midnights" has the fewest songs (13).
+- **Song Length and Lexical Richness Range**: "The Tortured Poets Department" shows the widest range of song lengths (94-259 words), indicating more variation in song length. The lexical richness range in "The Tortured Poets Department" is also wide (0.406-0.867), further highlighting its vocabulary diversity.
 
-1. **Total Word Count**:
-   - **Highest:** "The Tortured Poets Department" with **5,288** words.
-   - **Lowest:** "Midnights" with **2,024** words.
-
-2. **Unique Words**:
-   - **Highest:** "The Tortured Poets Department" with **1,642** unique words.
-   - **Lowest:** "Midnights" with **675** unique words.
-
-3. **Average Song Length (words)**:
-   - **Longest Average:** "Red (Taylor's Version)" and "Red" both with an average song length of **191.16** words.
-   - **Shortest Average:** "Midnights" with an average of **155.69** words per song.
-
-4. **Average Lexical Richness**:
-   - **Most Lexically Rich:** "The Tortured Poets Department" with an average lexical richness of **0.6313**.
-   - **Least Lexically Rich:** "Midnights" with an average lexical richness of **0.5147**.
-
-5. **Song Count**:
-   - **Highest Song Count:** "The Tortured Poets Department" with **31 songs**.
-   - **Lowest Song Count:** "Midnights" with **13 songs**.
-
-6. **Song Length Range**:
-   - The song lengths vary widely across albums, from as short as **94 words** in "Ilookin Peoples Windows" from "The Tortured Poets Department" to as long as **259 words** in "But Daddy Ilove Him" from the same album.
-
-7. **Lexical Richness Range**:
-   - Lexical richness ranges significantly across albums, with "The Tortured Poets Department" having a range from **0.406** to **0.867** (showing considerable variance), and "Midnights" ranging from **0.372** to **0.755** (narrower than others).
+---
 
 ### Sentiment Analysis of Albums
 
@@ -61,15 +43,37 @@ This comparison provides a detailed look at various metrics such as total word c
 3. **Highest Subjectivity**: "Taylor Swift" with a subjectivity of **0.624533**, suggesting more personal, emotional lyrics.
 4. **Lowest Subjectivity**: "1989" with a subjectivity of **0.545923**, which is relatively less subjective compared to other albums.
 
+---
+
+### Top 10 Songs with Highest Sentiment Polarity and Lexical Richness
+
+<p align="center">
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Top%2010%20Songs.png" />
+</p>
+
+#### Key Findings:
+- **Highest Sentiment Polarity**: Songs like "Welcome to New York" (0.9991) from **1989** and "London Boy" (0.9991) from **Lover** show near-perfect positive sentiment. These songs feature upbeat, celebratory lyrics, in line with the highly positive sentiment. Other notable songs with high polarity include "Out Of The Woods" (0.9989) and "Dress" (0.9985), showcasing the optimistic and empowering themes in albums like **1989**, **Lover**, and **Reputation**.
+  
+- **Album Representation**: While many songs with high polarity come from albums like **1989**, **Lover**, and **Reputation**, these albums focus on themes of love, relationships, and empowerment, contributing to their positive tone. These albums generally have lyrics that are uplifting and emotionally affirming, resonating with positivity.
+
+- **Highest Lexical Richness**: "The Manuscript" (0.867257) from **The Tortured Poets Department** leads in lexical richness, suggesting it features the most complex language among Taylor Swift's songs. Songs from **The Tortured Poets Department** dominate the top 10 list for lexical richness, with tracks like "The Smallest Man Who Ever Lived" (0.794326) and "How Did It End" (0.769912) highlighting its use of rich, diverse vocabulary.
+
+- **Lexical Range**: The songs with high lexical richness tend to have more complex, poetic language, using a variety of expressions and intricate phrasing. While albums like **Evermore** and **Folklore** also feature in the top 10, **The Tortured Poets Department** stands out for its focus on literary style, making it the album with the most songs exhibiting high lexical richness.
+
+
+In this combined analysis, we see that while **1989**, **Lover**, and **Reputation** lead in sentiment polarity, expressing positive and empowering messages, **The Tortured Poets Department** stands out for its use of complex and diverse language, as evidenced by its dominance in lexical richness. This demonstrates the contrast between albums that prioritize emotional expression and those that emphasize linguistic depth.
+
+
+---
+
 ### Conclusion
 
-- **"The Tortured Poets Department"** stands out with the **highest total word count**, **most unique words**, and **most lexically rich average**, along with the **largest song count** of 31 tracks. However, it also has the **lowest sentiment polarity**.
-- **"Red"** has the **highest polarity** and is very lexically rich, with songs that evoke strong positive emotions.
-- **"Midnights"** has the **shortest total word count** and the **lowest lexical richness**, with a more balanced sentiment compared to others.
-- The sentiment analysis indicates that albums like **"Taylor Swift"** and **"Reputation"** feature more personal and emotional content, while albums like **"1989"** focus more on objectivity and less emotional depth.
+In comparing all 11 albums, several distinct patterns emerge:
 
-The comparison highlights how Taylor Swift's albums vary in lyrical complexity, song length, vocabulary usage, and emotional tone. These insights help illustrate the evolution of her music across different eras.
-- **"Midnights"** has the **shortest total word count**, the **lowest lexical richness**, and a smaller number of songs (13).
-- Albums like **"Red"**, **"Reputation"**, and **"Speak Now"** tend to have longer songs and high lexical richness, offering a balance between emotional depth and vocabulary complexity.
-- **"Fearless"** and **"1989"** feature moderate values for song length and lexical richness, with an average of **168.58** words per song in "Fearless" and **158.53** in "1989".
+- **Lyrical Complexity and Vocabulary**: "The Tortured Poets Department" stands out for its high lexical richness and total word count. It features diverse vocabulary and longer song lengths, indicating a deeper focus on complex language. Conversely, "Midnights" tends to have shorter song lengths and simpler language, with lower lexical richness.
+  
+- **Emotional Tone**: "Red" exhibits the highest average sentiment polarity, reflecting the emotionally intense and positive themes throughout the album. On the other hand, "The Tortured Poets Department" has the lowest sentiment polarity, indicating a more neutral or subdued emotional tone. The albums **Red**, **Fearless**, and **Reputation** are characterized by high emotional intensity, while **1989** and **Midnights** offer more introspective or restrained emotions.
 
+- **Album Length and Track Count**: "The Tortured Poets Department" also leads in track count and total word count, suggesting it is a more expansive project with diverse themes. Albums like **Midnights** and **1989** feature fewer songs, and generally, they have shorter average song lengths.
+
+In summary, Taylor Swift's albums vary widely in terms of lyrical complexity, emotional tone, and song length. While albums like **The Tortured Poets Department** showcase rich vocabulary and a more neutral emotional tone, albums like **Red** and **Fearless** are marked by deeply personal and emotional lyrics. The variation in sentiment and complexity across her discography highlights the evolution of her artistic style over time.
