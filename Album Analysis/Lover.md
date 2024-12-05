@@ -33,7 +33,7 @@ The album "Lover" features **18 songs**, with a **total word count** of **3,163 
 ### Co-occurrence Analysis of Entities in the Album Lover
 
 <p align="center">
-  <img src="[https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album7.png](https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Lover_entity_graph.png)" />
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Lover_entity_graph.png" />
 </p>
 
 #### Key Findings:
