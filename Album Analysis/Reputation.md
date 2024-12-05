@@ -1,9 +1,8 @@
-### Analysis of Taylor Swift's Album: Reputation
-
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/Reputation.jpg" width="300" />
 </p>
 
+### Analysis of Taylor Swift's Album: Reputation
 **Overview**  
 The album "Reputation" contains **16 songs**, with a **total word count** of **3,369 words** and **840 unique words**. Known for its darker, more experimental production, this album also features more complex lyrical themes, exploring public image, relationships, and self-reflection.
 
@@ -29,7 +28,24 @@ The album "Reputation" contains **16 songs**, with a **total word count** of **3
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album6.png" />
 </p>
 
-**Conclusion**  
+---
+
+### Co-occurrence Analysis of Entities in the Album Reputation
+
+<p align="center">
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Reputation_entity_graph.png" />
+</p>
+
+#### Key Findings:
+- **Temporal References**: The recurrent mentions of terms like **"overnight"** (TIME), paired with both **"one"** (CARDINAL) and **"night"** (TIME), emphasize a focus on specific moments in time, indicative of fleeting emotions or experiences.
+- **Personal and Referential Mentions**: The inclusion of **"jailer burton taylor"** (PERSON) highlights the album’s thematic exploration of complex, sometimes confrontational personal relationships, as suggested by the presence of these unique references.
+
+#### Observations on Entity Co-occurrence:
+- The lyrics highlight specific **time references**, reinforcing the album's introspective focus on moments of change and emotional shifts. The pairing of **"night"** with terms like **"overnight"** suggests a transformation over a brief, often transient period.
+
+---
+
+### Conclusion  
 "Reputation" is an album with a more introspective and complex lyrical approach, featuring **3,369 total words** and an **average lexical richness** of **0.4291**. The range of **song lengths** and **lexical richness** indicates a mix of both accessible pop and more dense, thoughtful lyrics.
 
-
+The entity co-occurrence analysis also underscores the album's focus on **time** and **personal references**, supporting the overarching theme of change and self-reflection that defines *Reputation*.
