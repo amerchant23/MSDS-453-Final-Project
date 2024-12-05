@@ -1,9 +1,8 @@
-### Analysis of Taylor Swift's Album: Lover
-
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/Lover.jpg" width="300" />
 </p>
 
+### Analysis of Taylor Swift's Album: Lover
 **Overview**  
 The album "Lover" features **18 songs**, with a **total word count** of **3,163 words** and **819 unique words**. It is known for its more romantic, introspective, and personal themes, and its lyrics are often whimsical and narrative-driven.
 
@@ -29,7 +28,31 @@ The album "Lover" features **18 songs**, with a **total word count** of **3,163 
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album7.png" />
 </p>
 
-**Conclusion**  
+---
+
+### Co-occurrence Analysis of Entities in the Album Lover
+
+<p align="center">
+  <img src="[https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album7.png](https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Lover_entity_graph.png)" />
+</p>
+
+#### Key Findings:
+- **Temporal References**: The co-occurrence of terms like **"night"** (TIME) and **"summer"** (DATE) emphasizes the album's seasonal and emotional context, aligning with the overall theme of romantic nostalgia.
+  
+- **Geographical References**: Locations like **"New York City"** and **"West Village"** are mentioned together, reflecting a specific, recognizable setting for some of the album's narrative scenes.
+  
+- **Numerical Terms**: The recurring use of **"one"** (CARDINAL) alongside temporal entities such as **"morning"** (TIME) and **"night"** (TIME) emphasizes the passage of time and fleeting moments.
+
+#### Observations on Entity Co-occurrence:
+- **Temporal Themes**: The repeated pairing of **"night"** and **"summer"** indicates an album deeply connected with particular times of day and seasons, reinforcing its romantic and introspective nature.
+  
+- **Urban Settings**: The appearance of **"New York City"** and **"West Village"** as co-occurring terms places the album in a specific urban, cosmopolitan backdrop, contributing to the narrative-driven aspect of many songs.
+
+- **Singular Focus**: The presence of **"one"** in multiple co-occurrences underlines the focus on singular moments or feelings, central to the album’s intimate, reflective tone.
+
+---
+
+### Conclusion  
 "Lover" is an album with a total of **3,163 words** and an **average lexical richness** of **0.4871**, showing a combination of accessible, catchy songs and more intricate lyrical compositions. The album maintains shorter songs overall, with a range of lyrical complexity and themes of love, self-reflection, and personal growth.
 
-
+In terms of co-occurrence analysis, the album highlights **temporal** and **geographical** references that tie the lyrics to specific emotional moments and locations, contributing to the vivid storytelling Taylor Swift is known for. The balance of simplicity and complexity in both lyrics and themes ensures that "Lover" resonates with listeners on a deeply personal level.
