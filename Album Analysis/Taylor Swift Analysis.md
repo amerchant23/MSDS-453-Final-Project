@@ -1,8 +1,8 @@
-### Analysis of Taylor Swift's Album
 <p align="center">
    <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/TaylorSwift.jpg" width="300" />
 </p>
 
+### Analysis of Taylor Swift's Album
 **Overview**  
 The album by Taylor Swift comprises 15 songs, with a total word count of 1,953 words and 490 unique words. The album showcases a wide range of lyrical content, with a noticeable variation in song lengths and lexical richness.
 
@@ -28,7 +28,24 @@ The album by Taylor Swift comprises 15 songs, with a total word count of 1,953 w
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album1.png"/>
 </p>
 
-**Conclusion**  
+---
+
+### Co-occurrence Analysis of Entities in the Album Taylor Swift
+
+<p align="center">
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Taylor_entity_graph.png"/>
+</p>
+
+#### Key Findings:
+- **Time and Cardinal References:** The recurring co-occurrence of **"friday night"** (TIME) and **"half"** (CARDINAL) indicates a thematic focus on specific, meaningful moments tied to the passage of time.
+- **Personal and Geographical References:** Mentions of **"georgia"** (GPE) and **"standin street"** (FAC) suggest an emphasis on place, highlighting the significance of geography in the narrative of the album.
+
+#### Observations on Entity Co-occurrence:
+- The frequent pairing of **"first"** (ORDINAL) with various personal and geographical terms highlights moments of personal milestones and emotional growth, suggesting a focus on important life events in the album's stories.
+
+---
+
+### Conclusion  
 Taylor Swift's album displays a diverse range of lyrical styles, from more straightforward and concise songs to those that use a broader vocabulary. The average song length is relatively short, with a typical song being around 130 words long. This suggests that the album is not overly verbose but focuses on concise, impactful lyrics. The variations in lexical richness provide a nuanced understanding of Swift’s songwriting, as some songs focus on straightforward storytelling while others incorporate more intricate and varied language. The balance of these different elements helps create an album that offers both simplicity and depth, appealing to a wide range of listeners.
 
-
+The co-occurrence analysis of the entities within the album further emphasizes Taylor Swift’s use of time, place, and personal milestones to convey emotional depth, reinforcing her storytelling through both lyrical and geographical motifs.
