@@ -25,9 +25,11 @@ The album "Fearless" consists of 13 songs, with a total word count of 1,955 word
 3. **Mid-Range Lexical Richness:**
    - Songs like "You Belong With Me" and "Love Story" demonstrate **moderate lexical richness**, with values around **0.5-0.6**. These tracks feature a balance of straightforward storytelling and more creative word choices.
 
-**Conclusion**  
-"Fearless" continues the trend of blending simple and complex songwriting, but with more variation in word choice and song length compared to the "Taylor Swift" album. With an average song length of **150.38 words**, the album is slightly longer on average, and the lyrics exhibit a **higher lexical richness** of **0.5501**. The variations in lexical richness indicate that Taylor Swift uses both simple and sophisticated language, catering to a broad range of emotional expressions and song structures.
-
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album2.png" />
 </p>
+
+**Conclusion**  
+"Fearless" continues the trend of blending simple and complex songwriting, but with more variation in word choice and song length compared to the "Taylor Swift" album. With an average song length of **150.38 words**, the album is slightly longer on average, and the lyrics exhibit a **higher lexical richness** of **0.5501**. The variations in lexical richness indicate that Taylor Swift uses both simple and sophisticated language, catering to a broad range of emotional expressions and song structures.
+
+
