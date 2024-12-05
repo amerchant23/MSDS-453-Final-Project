@@ -1,9 +1,8 @@
-### Analysis of Taylor Swift's Album: Evermore
-
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/Evermore.jpg" width="300" />
 </p>
 
+### Analysis of Taylor Swift's Album: Evermore
 **Overview**  
 "Evermore," the sister album to "Folklore," features a darker, more reflective tone with a focus on storytelling. The album consists of **15 songs** with a **total word count** of **2,390 words** and **838 unique words**. It continues the introspective lyrical style seen in "Folklore" but with deeper explorations into themes of heartbreak, nostalgia, and personal growth.
 
