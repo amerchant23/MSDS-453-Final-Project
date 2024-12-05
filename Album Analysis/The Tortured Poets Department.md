@@ -1,9 +1,8 @@
-### Analysis of The Tortured Poets Department
-
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/THETORTUREDPOETSDEPARTMENT.jpg" width="300" />
 </p>
 
+### Analysis of The Tortured Poets Department
 **Overview**  
 "The Tortured Poets Department" is a 31-song album that showcases a varied range of emotional expression through a diverse vocabulary. With a **total word count** of **5,288 words** and **1,642 unique words**, the album reflects a rich, expansive lyrical universe. It explores themes of emotional struggles, relationships, and personal introspection, while experimenting with different lyrical styles.
 
@@ -30,7 +29,24 @@
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album11.png" />
 </p>
 
-**Conclusion**  
+---
+
+### Co-occurrence Analysis of Entities in the Album "The Tortured Poets Department"
+
+<p align="center">
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/TTPD_entity_graph.png" />
+</p>
+
+#### Key Findings:
+- **Cardinal and Personal References:** The recurring co-occurrence of **"one"** (CARDINAL) and **"taylor"** (PERSON) indicates a thematic focus on personal relationships and individual reflections.
+- **Geographical and Personal Mentions:** The album features several mentions of names such as **"peter"** and **"hill"**, with frequent co-occurrences with **"taylor"** (PERSON), suggesting a narrative about people and places intertwined within the emotional landscape of the album.
+
+#### Observations on Entity Co-occurrence:
+- The pairings of **"warn cross"** (ORG) with various entities like **"one"** (CARDINAL) and **"taylor"** (PERSON) show a layered exploration of personal and emotional struggles through the interaction of different entities within the songs.
+
+---
+
+### Conclusion  
 "The Tortured Poets Department" is an album with **5,288 words** and an **average lexical richness** of **0.6313**, providing a rich blend of directness and poetic complexity. The songs range from minimalist expressions to intricate lyricism, offering a diverse lyrical experience across the **31 tracks**.
 
-
+The co-occurrence analysis highlights the emotional depth and personal connections explored in the lyrics, with the interplay of names and numbers reinforcing themes of relationships, internal conflicts, and personal narratives.
