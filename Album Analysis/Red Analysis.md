@@ -1,9 +1,8 @@
-### Analysis of Taylor Swift's Album: Red
-
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/Red.jpg" width="300" />
 </p>
 
+### Analysis of Taylor Swift's Album: Red
 **Overview**  
 The album "Red" consists of 19 songs, with a total word count of **3,042 words** and **730 unique words**. This album features a more varied approach in terms of song length and lexical richness, with some songs being much shorter and others having more complex vocabulary.
 
@@ -29,7 +28,25 @@ The album "Red" consists of 19 songs, with a total word count of **3,042 words**
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album4.png" />
 </p>
 
-**Conclusion**  
+---
+
+### Co-occurrence Analysis of Entities in the Album Red
+
+<p align="center">
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Red_entity_graph.png" />
+</p>
+
+#### Key Findings:
+- **Geographical References**: The frequent pairing of **"New York"** (GPE) and terms like **"first"** (ORDINAL) or **"tonight"** (TIME) highlights the song's focus on significant moments tied to specific locations and times, contributing to the narrative-driven nature of the lyrics.
+  
+- **Temporal References**: The pairing of **"tonight"** (TIME) with both **"tonight"** (TIME) and **"yesterday"** (DATE) further emphasizes the album's exploration of love, loss, and reflection on the past.
+
+#### Observations on Entity Co-occurrence:
+- **Location and Time**: The recurrent mentions of **"New York"** and time-specific terms demonstrate the album’s reliance on significant personal moments, often tied to places and periods of time in the singer’s life.
+
+---
+
+### Conclusion  
 "Red" is an album with a wide range of song lengths and vocabulary complexity, featuring a **total word count** of **3,042** and an **average lexical richness** of **0.4763**. Some songs are lyrically rich, while others rely on simpler phrases, giving the album a dynamic variety in lyrical styles.
 
-
+In terms of co-occurrence analysis, the album emphasizes **location** and **temporal** references, reinforcing the narrative-driven and emotionally charged nature of Taylor Swift’s songwriting.
