@@ -1,9 +1,8 @@
-### Analysis of Taylor Swift's Album: Speak Now
-
 <p align="center">
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Art/SpeakNow.jpg" width="300" />
 </p>
 
+### Analysis of Taylor Swift's Album: Speak Now
 **Overview**  
 The album "Speak Now" consists of 14 songs, with a total word count of **2,617 words** and **752 unique words**. This album features a slightly higher average song length compared to the previous albums, with a notable variety in song lengths and lexical richness across the tracks.
 
@@ -29,7 +28,24 @@ The album "Speak Now" consists of 14 songs, with a total word count of **2,617 w
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album3.png" />
 </p>
 
-**Conclusion**  
+---
+
+### Co-occurrence Analysis of Entities in the Album Speak Now
+
+<p align="center">
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/SpeakNow_entity_graph.png" />
+</p>
+
+#### Key Findings:
+- **Time and Date Mentions:** The frequent co-occurrence of **"december"** (DATE) and **"summer"** (DATE) highlights the juxtaposition of contrasting seasons, a recurring theme in the album's exploration of past and present.
+- **Personal and Emotional References:** The reference to **"tan skin"** (PERSON) paired with specific months and seasons emphasizes themes of nostalgia and youthful memories tied to time and place.
+
+#### Observations on Entity Co-occurrence:
+- The presence of **"tonight"** (TIME) alongside **"one"** (CARDINAL) and **"fourteen"** (CARDINAL) suggests significant moments of change or personal milestones. These references reflect the album's narrative of fleeting yet intense emotions, often tied to specific times in life.
+
+---
+
+### Conclusion  
 "Speak Now" is a more lyrically diverse album compared to "Fearless," with **higher total unique words** and a **moderate average lexical richness** of **0.5126**. The songs range from shorter, simpler tracks to longer, more detailed stories, with varying degrees of lexical richness, making it a well-rounded album in terms of both vocabulary and emotional depth.
 
-
+The entity co-occurrence analysis also underscores the album's focus on **time**, **seasons**, and **personal references**, reinforcing the emotional landscape Taylor Swift creates through these recurring motifs.
