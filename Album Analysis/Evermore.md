@@ -29,7 +29,40 @@
   <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Album9.png" />
 </p>
 
-**Conclusion**  
+---
+
+### Co-occurrence Analysis of Entities in the Album Evermore
+
+<p align="center">
+  <img src="https://github.com/amerchant23/MSDS-453-Final-Project/blob/main/Images/Album%20Analysis%20Visuals/Evermore_entity_graph.png" />
+</p>
+
+
+#### Key Findings:
+- **Repetition of Entities**: Several **DATE** entities, such as "november," "july," "december," and "winter," show up repeatedly, suggesting that the album often ties its themes to specific moments in time or seasonal changes.
+  
+- **High Frequency of Temporal References**: Terms like **"day," "weekend,"** and **"midnight"** appear frequently, reinforcing the album's focus on specific times and moments.
+
+- **Personal References**: Entities such as **"Grey," "Tupelo,"** and **"Este friend mine"** suggest that the album contains personal or anecdotal elements, perhaps referring to specific people or experiences in Taylor Swift's life.
+
+- **Numerical Terms**: Words like **"one," "two," "seven,"** and **"fifteen"** appear frequently in co-occurrences, pointing to a recurring emphasis on counting or sequence in the lyrics.
+
+- **Interactions Between Temporal Entities**: Co-occurrences such as **"midnight"** and **"seven years"** show the importance of time within the songs, possibly referring to specific moments in the narrative of the album.
+
+#### Observations on Entity Co-occurrence:
+- **Temporal References**: The frequent co-occurrence of **DATE** entities like "july," "november," and "winter" suggests that time plays a crucial role in the storytelling of *Evermore*, emphasizing the passage of seasons and years.
+  
+- **Personal Entities**: Names like "Tupelo" and "Este friend mine" reflect personal connections, reinforcing the album's more introspective and narrative-driven style.
+
+- **Recurrent Numerical References**: The repeated co-occurrence of **CARDINAL** entities like "one," "two," and "fifteen" could signify key events or moments in the story the album tells, focusing on counting significant days or experiences.
+
+- **Night and Time**: The interaction of terms like **"midnight"** and **"seven year"** further underscores the theme of reflective, often nostalgic storytelling. This could point to key events or turning points in the lyrics related to time or specific memories.
+
+---
+
+### Conclusion  
 "Evermore" is a thoughtful album with a total of **2,390 words** and an **average lexical richness** of **0.556**, suggesting that Taylor Swift continues to experiment with lyric complexity while keeping her songwriting accessible. The songs range from simple and direct to rich and multi-layered, offering a diverse listening experience for fans of both emotional depth and clarity.
 
+In terms of thematic content, the co-occurrence analysis highlights the album's strong focus on **time**, with frequent references to months, seasons, and specific moments such as **"midnight"**. Personal references like **"Tupelo"** and **"Este friend mine"** add to the album's introspective and narrative-driven style, while the frequent use of **numbers** emphasizes important moments or events in the storyline.
 
+Overall, **Evermore** is an album that combines simplicity with depth, allowing listeners to engage with its reflective themes of nostalgia, personal growth, and love.
