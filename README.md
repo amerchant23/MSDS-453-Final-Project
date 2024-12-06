@@ -35,27 +35,39 @@ The chatbot will ask for song inputs, and you can request song recommendations b
 
 ### Example
 🎤 Welcome to the Advanced Swiftie Lyric Bot! 🎶
+
 Looking for personalized song recommendations? Let's get started!
+
 ✨ Type the name of a Taylor Swift song, and I'll recommend others.
+
 🎧 Add filters like album, sentiment, or themes for a tailored experience.
+
 Type 'exit' anytime to leave. 💃
 
 🎵 Your song choice (or type 'exit'): Love Story
 
 🎶 Found your song: Love Story
 
-📋 Do you want a single song recommendation or a playlist? (Type 'single' or 'playlist'): playlist
+📋 Do you want a single song recommendation or a playlist? (Type 'single', 'playlist', or 'exit'): playlist
 
-🎤 Want to filter by album? Type the album name or press Enter to skip: Fearless
+🎤 Want to filter by album? Type the album name or press Enter to skip (or type 'exit'): Fearless
 
-🎭 Sentiment preference (positive/negative/neutral)? Press Enter to skip: positive
+🎭 Sentiment preference (positive/negative/neutral)? Press Enter to skip or type 'exit': positive
 
-🌟 Key themes or keywords to match? Separate by commas or press Enter to skip: love, fairytale
+🌟 Key themes or keywords to match? Separate by commas or press Enter to skip (or type 'exit'): love, fairytale
+
+Normalized input: Love Story
+
+Theme keywords: ['love', 'fairytale']
 
 🎶 Here are your top recommendations for 'Love Story':
 
-1. You Belong With Me (Similarity: 0.89)
-   
-2. Enchanted (Similarity: 0.85)
-...
+1. The Best Day (Similarity: 0.10)
+ 
+2. White Horse (Similarity: 0.09)
+
+3. The Way Iloved You (Similarity: 0.09)
+
+4. Fifteen (Similarity: 0.06)
+
 
