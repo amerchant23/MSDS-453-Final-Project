@@ -15,7 +15,7 @@ This project provides an advanced chatbot for personalized song recommendations 
 
 ## Installation
 1. Clone the GitHub repository containing Taylor Swift's lyrics: git clone https://github.com/ishijo/Taylor-Swift-Lyrics.git
-2. The code will download the lyrics data for the original 10 albums defined in the original_10_albums list, specifically targeting the "Albums" folder.
+2. The code will download the lyrics data for the original 11 albums defined in the original_11_albums list, specifically targeting the "Albums" folder.
 3. The files will be copied into a local directory (./downloaded_files), maintaining the folder structure.
 
 The code performs the following steps:
